@@ -1,0 +1,4 @@
+﻿glew32s.lib(glew.obj) : warning LNK4099: PDB 'glew32s.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\USER4\source\repos\Project_1\x64\Debug\glew32s.pdb'; linking object as if no debug info
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Project_1.vcxproj -> C:\Users\USER4\source\repos\Project_1\x64\Debug\Project_1.exe
