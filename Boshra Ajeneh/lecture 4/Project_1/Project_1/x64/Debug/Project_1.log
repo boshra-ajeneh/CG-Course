@@ -1,0 +1,10 @@
+﻿  Project_1.cpp
+C:\Users\USER4\source\repos\Project_1\Project_1\Project_1.cpp(67,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\USER4\source\repos\Project_1\Project_1\Project_1.cpp(69,22): warning C4244: '=': conversion from 'const _Ty' to 'float', possible loss of data
+C:\Users\USER4\source\repos\Project_1\Project_1\Project_1.cpp(69,22): warning C4244:         with
+C:\Users\USER4\source\repos\Project_1\Project_1\Project_1.cpp(69,22): warning C4244:         [
+C:\Users\USER4\source\repos\Project_1\Project_1\Project_1.cpp(69,22): warning C4244:             _Ty=double
+C:\Users\USER4\source\repos\Project_1\Project_1\Project_1.cpp(69,22): warning C4244:         ]
+C:\Users\USER4\source\repos\Project_1\Project_1\Project_1.cpp(94,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\USER4\source\repos\Project_1\Project_1\Project_1.cpp(263,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Project_1.vcxproj -> C:\Users\USER4\source\repos\Project_1\x64\Debug\Project_1.exe
